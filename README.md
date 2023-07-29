@@ -7,15 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/shreyash048" target="blank"><img src="https://img.shields.io/twitter/follow/shreyash048?logo=twitter&style=for-the-badge" alt="shreyash048" /></a> </p>
 
-- 🔭 I’m currently working on **Text minning**
+- 🔭 I’m currently working on **Regex**
 
-- 🌱 I’m currently learning **Course on Data Science and Machine Learning by IIT Guwahati**
+- 🌱 I’m currently learning **AI-ML by IIT Guwahati**
 
 - 👨‍💻 All of my projects are available at [http://shreyashchacharkar.carrd.co/](http://shreyashchacharkar.carrd.co/)
 
 - 📫 How to reach me **shreyashc2911@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1rXUIRRXA-tvZ8LgvDwWn95Q6CwglAJLs/view?usp=drive_link](https://drive.google.com/file/d/1rXUIRRXA-tvZ8LgvDwWn95Q6CwglAJLs/view?usp=drive_link)
+- Currently working as **Machine learning intern** at **Fyenn Lab**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
