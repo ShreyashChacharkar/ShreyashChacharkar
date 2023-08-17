@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyashchacharkar&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashchacharkar" /> </p>
+<p align="left"> <img src="https://www.canva.com/design/DAFqGJfHPiw/CtfsDLTcwCojgeTV7KvMnw/view?utm_content=DAFqGJfHPiw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="shreyashchacharkar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shreyash048" target="blank"><img src="https://img.shields.io/twitter/follow/shreyash048?logo=twitter&style=for-the-badge" alt="shreyash048" /></a> </p>
 
